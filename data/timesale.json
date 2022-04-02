@@ -1,0 +1,50 @@
+[{
+    "title": "한 뼘 사이",
+    "condition": "평일 1인 타임세일 기준",
+    "sale": "64%",
+    "price": 10900,
+    "photo": "./images/sale_1.jpg"
+  },
+  {
+    "title": "라면",
+    "condition": "평일 1인 타임세일 기준",
+    "sale": "73%",
+    "price": 10900,
+    "photo": "./images/sale_2.jpg"
+  },
+  {
+    "title": "옥탑방 고양이",
+    "condition": "마지막주 수요일 타임세일 기준",
+    "sale": "77%",
+    "price": 8000,
+    "photo": "./images/sale_3.jpg"
+  },
+  {
+    "title": "나의 PS 파트너",
+    "condition": "평일 1+1티켓 타임세일(1인) 기준",
+    "sale": "72%",
+    "price": 9000,
+    "photo": "./images/sale_4.jpg"
+  },
+  {
+    "title": "#나만빼고",
+    "condition": "평일 1인 타임세일 기준",
+    "sale": "64%",
+    "price": 12500,
+    "photo": "./images/sale_5.jpg"
+  },
+  {
+    "title": "써니텐",
+    "condition": "평일 1인 타임세일 기준",
+    "sale": "67%",
+    "price": 18000,
+    "photo": "./images/sale_6.jpg"
+  },
+  {
+    "title": "연애하기 좋은 날",
+    "condition": "평일 1인 타임세일 기준",
+    "sale": "76%",
+    "price": 8500,
+    "photo": "./images/sale_7.jpg"
+  }
+]

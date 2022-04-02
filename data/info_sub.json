@@ -1,0 +1,505 @@
+{
+    "info_sub1": [{
+            "title": "한 뻠 사이",
+            "condition": "평일 1인 타임세일 기준",
+            "sale": "64%",
+            "price": 10900,
+            "photo": "./images/info_sub1_1.jpg"
+        },
+        {
+            "title": "라면",
+            "condition": "평일 1인 타임세일 기준",
+            "sale": "73%",
+            "price": 10900,
+            "photo": "./images/info_sub1_2.jpg"
+        },
+        {
+            "title": "옥탑방 고양이",
+            "condition": "마지막주 수요일 타임세일 기준",
+            "sale": "77%",
+            "price": 8000,
+            "photo": "./images/info_sub1_3.jpg"
+        },
+        {
+            "title": "나의 PS 파트너",
+            "condition": "평일 1+1티켓 타임세일(1인) 기준",
+            "sale": "72%",
+            "price": 9900,
+            "photo": "./images/info_sub1_4.jpg"
+        },
+        {
+            "title": "#나만빼고",
+            "condition": "평일 1인 타임세일 기준",
+            "sale": "64%",
+            "price": 12500,
+            "photo": "./images/info_sub1_5.jpg"
+        },
+        {
+            "title": "연애하기 좋은 날",
+            "condition": "평일 1인 타임세일 기준",
+            "sale": "76%",
+            "price": 8500,
+            "photo": "./images/info_sub1_6.jpg"
+        },
+        {
+            "title": "보잉보잉",
+            "condition": "1인 관람권 기준",
+            "sale": "57%",
+            "price": 14900,
+            "photo": "./images/info_sub1_7.jpg"
+        },
+        {
+            "title": "운빨 로맨스",
+            "condition": "평일 1인 관람권 기준",
+            "sale": "70%",
+            "price": 11900,
+            "photo": "./images/info_sub1_8.jpg"
+        },
+        {
+            "title": "그놈은 예뻤다",
+            "condition": "1+1티켓(1인) 기준",
+            "sale": "64%",
+            "price": 16000,
+            "photo": "./images/info_sub1_9.jpg"
+        },
+        {
+            "title": "쉬어매드니스",
+            "condition": "평일 1+1티켓(1인) 기준",
+            "sale": "71%",
+            "price": 10000,
+            "photo": "./images/info_sub1_10.jpg"
+        },
+        {
+            "title": "크리미널",
+            "condition": "평일 1인 오늘,내일티켓 기준",
+            "sale": "68%",
+            "price": 9500,
+            "photo": "./images/info_sub1_11.jpg"
+        },
+        {
+            "title": "핫식스",
+            "condition": "평일 1인 특가할인 기준",
+            "sale": "63%",
+            "price": 13000,
+            "photo": "./images/info_sub1_12.jpg"
+        },
+        {
+            "title": "오백에 삼십",
+            "condition": "평일 1인 관람권 기준",
+            "sale": "70%",
+            "price": 11900,
+            "photo": "./images/info_sub1_13.jpg"
+        },
+        {
+            "title": "흉터",
+            "condition": "평일 1인 선착순할인 기준",
+            "sale": "63%",
+            "price": 12900,
+            "photo": "./images/info_sub1_14.jpg"
+        },
+        {
+            "title": "조각",
+            "condition": "마지막주 수요일 문화의날 기준",
+            "sale": "63%",
+            "price": 11000,
+            "photo": "./images/info_sub1_15.jpg"
+        },
+        {
+            "title": "오! 나의 귀신님",
+            "condition": "평일 1인 청소년할인 기준",
+            "sale": "66%",
+            "price": 12000,
+            "photo": "./images/info_sub1_16.jpg"
+        },
+        {
+            "title": "늘근도둑이야기",
+            "condition": "평일 1인 오늘티켓 기준",
+            "sale": "64%",
+            "price": 12500,
+            "photo": "./images/info_sub1_17.jpg"
+        },
+        {
+            "title": "사춘기 메들리",
+            "condition": "1인 관람권 기준",
+            "sale": "64%",
+            "price": 12500,
+            "photo": "./images/info_sub1_18.jpg"
+        },
+        {
+            "title": "스위치",
+            "condition": "평일 1인권 인친할인 기준",
+            "sale": "57%",
+            "price": 12900,
+            "photo": "./images/info_sub1_19.jpg"
+        },
+        {
+            "title": "언플러그드",
+            "condition": "평일 1인 오늘티켓 기준",
+            "sale": "73%",
+            "price": 10900,
+            "photo": "./images/info_sub1_20.jpg"
+        },
+        {
+            "title": "코미디의 맛",
+            "condition": "쇼미너퍼니 1+1티켓(1인) 기준",
+            "sale": "68%",
+            "price": 9500,
+            "photo": "./images/info_sub1_21.jpg"
+        },
+        {
+            "title": "오 마이 갓",
+            "condition": "평일 1인 학생할인 기준",
+            "sale": "71%",
+            "price": 10000,
+            "photo": "./images/info_sub1_22.jpg"
+        },
+        {
+            "title": "너의 목소리가 들려",
+            "condition": "평일 1인 학생할인 기준",
+            "sale": "71%",
+            "price": 10000,
+            "photo": "./images/info_sub1_23.jpg"
+        },
+        {
+            "title": "자취",
+            "condition": "마지막주 수요일 문화의날 기준",
+            "sale": "69%",
+            "price": 11000,
+            "photo": "./images/info_sub1_24.jpg"
+        },
+        {
+            "title": "멈춰진 계절",
+            "condition": "평일 1인 오늘티켓 기준",
+            "sale": "64%",
+            "price": 10900,
+            "photo": "./images/info_sub1_25.jpg"
+        },
+        {
+            "title": "택시안에서",
+            "condition": "마지막주 수요일 문화의날 기준",
+            "sale": "71%",
+            "price": 10000,
+            "photo": "./images/info_sub1_26.jpg"
+        },
+        {
+            "title": "G급 감성",
+            "condition": "마지막주 수요일 문화의날 기준",
+            "sale": "80%",
+            "price": 5000,
+            "photo": "./images/info_sub1_27.jpg"
+        },
+        {
+            "title": "열정과 냉정사이",
+            "condition": "평일 1인 오늘티켓 기준",
+            "sale": "60%",
+            "price": 12000,
+            "photo": "./images/info_sub1_28.jpg"
+        }
+    ],
+    "info_sub2": [{
+            "title": "써니텐",
+            "condition": "평일 1인 타임세일 기준",
+            "sale": "67%",
+            "price": 18000,
+            "photo": "./images/info_sub2_1.jpg"
+        },
+        {
+            "title": "로미오와 줄리엣",
+            "condition": "1인 오늘티켓 기준",
+            "sale": "70%",
+            "price": 12000,
+            "photo": "./images/info_sub2_2.jpg"
+        },
+        {
+            "title": "시카고",
+            "condition": "시카고 베이비 할인(2000년생) 기준",
+            "sale": "30%",
+            "price": 42000,
+            "photo": "./images/info_sub2_3.png"
+        },
+        {
+            "title": "위키드",
+            "condition": "1인 학생 A석 기준",
+            "sale": "30%",
+            "price": 56000,
+            "photo": "./images/info_sub2_4.png"
+        },
+        {
+            "title": "팬텀",
+            "condition": "1인 청소년 A석 기준",
+            "sale": "20%",
+            "price": 48000,
+            "photo": "./images/info_sub2_5.png"
+        },
+        {
+            "title": "라면에 파송송",
+            "condition": "문화데이 기준",
+            "sale": "30%",
+            "price": 12000,
+            "photo": "./images/info_sub2_6.png"
+        },
+        {
+            "title": "지붕위의 바이올린",
+            "condition": "1인 청소년 A석 기준",
+            "sale": "15%",
+            "price": 34000,
+            "photo": "./images/info_sub2_7.png"
+        }
+    ],
+    "info_sub3": [{
+            "title": "LIVENow K-Pop presents MAMAMOO",
+            "condition": "1인 기준",
+            "sale": "",
+            "price": 18000,
+            "photo": "./images/info_sub3_1.png"
+        },
+        {
+            "title": "2021 장윤정 라이브 콘서트",
+            "condition": "1인 S석 기준",
+            "sale": "",
+            "price": 99000,
+            "photo": "./images/info_sub3_2.png"
+        },
+        {
+            "title": "2021 Theatre 이문세",
+            "condition": "1인 S석 기준",
+            "sale": "",
+            "price": 121000,
+            "photo": "./images/info_sub3_3.png"
+        },
+        {
+            "title": "SoLive : 솔라이브",
+            "condition": "1인 기준",
+            "sale": "",
+            "price": 30000,
+            "photo": "./images/info_sub3_4.png"
+        },
+        {
+            "title": "With U_V.O.S 콘서트",
+            "condition": "1인 기준",
+            "sale": "",
+            "price": 5000,
+            "photo": "./images/info_sub3_5.png"
+        },
+        {
+            "title": "SELECT SHOP <십센티 X 소란>",
+            "condition": "1인 A석 기준",
+            "sale": "",
+            "price": 99000,
+            "photo": "./images/info_sub3_6.png"
+        },
+        {
+            "title": "내일은 <미스터트롯> TOP6 전국투어 콘서트",
+            "condition": "1인 A석 기준",
+            "sale": "",
+            "price": 99000,
+            "photo": "./images/info_sub3_7.png"
+        },
+        {
+            "title": "송해의 인생티비",
+            "condition": "1인 기준",
+            "sale": "",
+            "price": 30000,
+            "photo": "./images/info_sub3_8.png"
+        },
+        {
+            "title": "Cheeze History Live",
+            "condition": "1인 기준",
+            "sale": "",
+            "price": 10890,
+            "photo": "./images/info_sub3_9.png"
+        },
+        {
+            "title": "데이브레이크 '× ÷ SHOW 시즌2' : 2배의 즐거움을 함께 나누자",
+            "condition": "1인 기준",
+            "sale": "",
+            "price": 88000,
+            "photo": "./images/info_sub3_10.png"
+        },
+        {
+            "title": "양준일, 김원준 콘서트 〈Star track〉",
+            "condition": "1인 기준",
+            "sale": "",
+            "price": 110000,
+            "photo": "./images/info_sub3_11.png"
+        }
+    ],
+    "info_sub4": [{
+            "title": "사랑일까?",
+            "condition": "평일 1인 선착순할인 기준",
+            "sale": "66%",
+            "price": 12000,
+            "photo": "./images/info_sub4_1.jpg"
+        },
+        {
+            "title": "시간을 파는 상점",
+            "condition": "1인 청소년 관람권 기준",
+            "sale": "57%",
+            "price": 15000,
+            "photo": "./images/info_sub4_2.jpg"
+        },
+        {
+            "title": "아기돼지 삼형제",
+            "condition": "1인 오늘티켓 기준",
+            "sale": "63%",
+            "price": "8900",
+            "photo": "./images/info_sub4_3.jpg"
+        },
+        {
+            "title": "미래 상상 마술쇼",
+            "condition": "1인 관람권 기준",
+            "sale": "28",
+            "price": "17900",
+            "photo": "./images/info_sub4_4.jpg"
+        },
+        {
+            "title": "신데렐라",
+            "condition": "1인 오늘티켓 기준",
+            "sale": "55",
+            "price": "10900",
+            "photo": "./images/info_sub4_5.jpg"
+        },
+        {
+            "title": "반짝반짝 라푼젤",
+            "condition": "1인 오늘티켓 기준",
+            "sale": "46%",
+            "price": "10900",
+            "photo": "./images/info_sub4_6.jpg"
+        },
+        {
+            "title": "어린이 마술쇼",
+            "condition": "1인 관람권 오늘티켓 기준",
+            "sale": "73%",
+            "price": "8000",
+            "photo": "./images/info_sub4_7.jpg"
+        },
+        {
+            "title": "무지개랜드",
+            "condition": "4인권(1인) 기준",
+            "sale": "63%",
+            "price": "11000",
+            "photo": "./images/info_sub4_8.jpg"
+        },
+        {
+            "title": "어린왕자의 꿈",
+            "condition": "1인 선착순할인 기준",
+            "sale": "56%",
+            "price": "11000",
+            "photo": "./images/info_sub4_9.jpg"
+        },
+        {
+            "title": "더퀸 : 선덕여왕의 귀환",
+            "condition": "2층 4인원 1인 관람가 기준",
+            "sale": "60%",
+            "price": "16000",
+            "photo": "./images/info_sub4_10.jpg"
+        }
+    ],
+    "info_sub5": [{
+            "title": "컬러풀뮤지엄",
+            "condition": "어린이 1인 관람권 기준",
+            "sale": "28%",
+            "price": 10800,
+            "photo": "./images/info_sub5_1.jpg"
+        },
+        {
+            "title": "김애옥 개인전 : 폭풍의 언덕(김포)",
+            "condition": "1인 관람권(멘탈아트워크, 음료 포함)",
+            "sale": "타임티켓가",
+            "price": 10000,
+            "photo": "./images/info_sub5_2.jpg"
+        },
+        {
+            "title": "미술이 문학을 만났을 때",
+            "condition": "무료",
+            "sale": "",
+            "price": "무료",
+            "photo": "./images/info_sub5_3.jpg"
+        },
+        {
+            "title": "이집트-삶,죽음,부활의이야기",
+            "condition": "무료",
+            "sale": "",
+            "price": "무료",
+            "photo": "./images/info_sub5_4.jpg"
+        },
+        {
+            "title": "SF2021:판타지 오디세이",
+            "condition": "무료",
+            "sale": "",
+            "price": "무료",
+            "photo": "./images/info_sub5_5.jpg"
+        },
+        {
+            "title": "외국인이 바라본 대한민국 경제발전 100년",
+            "condition": "무료",
+            "sale": "",
+            "price": "무료",
+            "photo": "./images/info_sub5_6.jpg"
+        },
+        {
+            "title": "그때 그 시절 우리집",
+            "condition": "무료",
+            "sale": "",
+            "price": "무료",
+            "photo": "./images/info_sub5_7.jpg"
+        }
+    ],
+    "info_sub6": [{
+            "title": "궁궐야행 창경궁",
+            "condition": "1인 체험권 기준",
+            "sale": "57%",
+            "price": 12900,
+            "photo": "./images/info_sub6_1.jpg"
+        },
+        {
+            "title": "서울/중구궁궐야행 덕수궁",
+            "condition": "1인 체험권 기준",
+            "sale": "57%",
+            "price": 12900,
+            "photo": "./images/info_sub6_2.jpg"
+        },
+        {
+            "title": "서울/종로국가대표궁궐 경복궁",
+            "condition": "1인 체험권 기준",
+            "sale": "57%",
+            "price": 12900,
+            "photo": "./images/info_sub6_3.jpg"
+        },
+        {
+            "title": "서울/종로세계문화유산 창덕궁",
+            "condition": "1인 체험권 기준",
+            "sale": "57%",
+            "price": 12900,
+            "photo": "./images/info_sub6_4.jpg"
+        },
+        {
+            "title": "서울/중구덕수궁 돌담길",
+            "condition": "1인 체험권 기준",
+            "sale": "50%",
+            "price": 14900,
+            "photo": "./images/info_sub6_5.jpg"
+        },
+        {
+            "title": "서울/종로다시 꿈을 꾸는 북촌",
+            "condition": "1인 체험권 기준",
+            "sale": "50%",
+            "price": 14900,
+            "photo": "./images/info_sub6_6.jpg"
+        },
+        {
+            "title": "서울/종로예술인의 마을 서촌",
+            "condition": "1인 체험권 기준",
+            "sale": "50%",
+            "price": 14900,
+            "photo": "./images/info_sub6_7.jpg"
+        },
+        {
+            "title": "서울/중구낙산 이화마을 야행",
+            "condition": "1인 체험권 기준",
+            "sale": "50%",
+            "price": 14900,
+            "photo": "./images/info_sub6_8.jpg"
+        }
+    ]
+}
